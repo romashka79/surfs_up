@@ -8,8 +8,10 @@ To examine the sustainability of the surf and ice cream shop business on the isl
 
 # Results:
 
-•	The maximum temperatures for June and December are 85 and 83, respectively. 
+![June_temp](Resources/June_temp.png).                    ![December_temp](Resources/December_temp.png).
 
+
+•	The maximum temperatures for June and December are 85 and 83, respectively. 
 
 •	The minimum temperatures for June and December are 64 and 56, respectively. 
 
